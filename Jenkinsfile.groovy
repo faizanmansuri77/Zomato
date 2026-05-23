@@ -22,7 +22,7 @@ pipeline {
             steps {
                 git(
                     branch: 'main',
-                    url: 'https://github.com/mudit097/Zomato-Clone.git'
+                    url: 'https://github.com/faizanmansuri77/Zomato.git'
                 )
             }
         }
