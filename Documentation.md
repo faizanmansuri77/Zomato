@@ -1,5 +1,5 @@
 
-# DevSecOps CI/CD Pipeline Documentation – Zomato Clone
+# DevSecOps CI/CD Pipeline Documentation – Zomato Clone (Guide)
 
 ## Project Overview
 
